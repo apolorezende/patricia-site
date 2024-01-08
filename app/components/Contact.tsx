@@ -3,10 +3,7 @@ import React from "react";
 import homeimg from "../../public/home-img.svg";
 
 export default function Contact() {
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    // Aqui você pode adicionar lógica para lidar com o envio do formulário
-    // Por exemplo, enviar os dados para um servidor, exibir uma mensagem de sucesso, etc.
+  const handleSubmit = () => {
   };
 
   return (
